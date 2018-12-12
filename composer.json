@@ -1,0 +1,11 @@
+{
+    "name": "kwn/protobuff-playground",
+    "require": {
+        "google/protobuf": "^3.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "src"
+        }
+    },
+}
